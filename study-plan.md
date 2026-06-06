@@ -22,9 +22,9 @@
 
 ## Pre-Study Setup (Before Week 1)
 
-- [ ] Create a free GitHub account (if you don't have one): https://github.com
-- [ ] Install Git locally: https://git-scm.com/downloads
-- [ ] Install GitHub CLI (`gh`): https://cli.github.com
+- [x] Create a free GitHub account (if you don't have one): https://github.com
+- [x] Install Git locally: https://git-scm.com/downloads
+- [x] Install GitHub CLI (`gh`): https://cli.github.com
 - [ ] Install GitHub Desktop (optional, but good to know for the exam): https://desktop.github.com
 - [ ] Install **GitHub Mobile** on your phone (iOS/Android) — it's covered in the GitHub Products module on the exam: https://github.com/mobile
 - [ ] Bookmark the official study guide: https://examregistration.github.com/certification/GHF
