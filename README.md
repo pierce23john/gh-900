@@ -19,3 +19,16 @@ This repo has the following
 | Fri | GitHub Insights: traffic, contributors, pulse | [GitHub Docs — Insights](https://docs.github.com/en/repositories/viewing-activity-and-data-for-your-repository) |
 | Sat | **Practical Lab 5** (see below) | |
 | Sun | Rest or catch-up | |
+
+
+```mermaid
+
+graph TD;
+
+A-->B;
+A-->C;
+B-->D;
+C-->D
+```
+
+🧑‍🎓
